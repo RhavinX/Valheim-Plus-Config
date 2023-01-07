@@ -1,0 +1,6 @@
+# Ignore plugins
+plugins/
+
+# Ignore BepInEx config
+BepInEx.cfg
+BepInEx.cfg.default
