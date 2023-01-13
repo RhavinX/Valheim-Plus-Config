@@ -1,5 +1,7 @@
 # Valheim-Plus-Config
-Valheim Plus Config File
+
+Also copy the server config file to your local Valheim client config.\
+(Might not be necessary as server will make the client use the settings on the server.)
 
 Plugins on the Server and Client
 
