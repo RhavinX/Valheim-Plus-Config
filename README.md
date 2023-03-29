@@ -8,7 +8,6 @@ Plugins on the Server and Client
 Plugins are installed manually, not through Vortex client
 
 - Any Portal: https://www.nexusmods.com/valheim/mods/170
-- Eat Less: https://www.nexusmods.com/valheim/mods/2145
 - Gungnir: https://www.nexusmods.com/valheim/mods/1921
 - Jotunn: https://www.nexusmods.com/valheim/mods/1138
 - OCDheim: https://www.nexusmods.com/valheim/mods/2087
