@@ -12,5 +12,5 @@ Plugins are installed manually, not through Vortex client
 - Jotunn: https://www.nexusmods.com/valheim/mods/1138
 - OCDheim: https://www.nexusmods.com/valheim/mods/2087
 - Seafloor Walking Boots: https://www.nexusmods.com/valheim/mods/1580
-- Valheim Plus: https://www.nexusmods.com/valheim/mods/
+- Valheim Plus: [https://www.nexusmods.com/valheim/mods/](https://www.nexusmods.com/valheim/mods/4)
 
