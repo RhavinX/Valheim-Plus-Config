@@ -4,3 +4,5 @@ plugins/
 # Ignore BepInEx config
 BepInEx.cfg
 BepInEx.cfg.default
+org.bepinex.valheim.displayinfo.cfg
+ValheimPlus.dll
