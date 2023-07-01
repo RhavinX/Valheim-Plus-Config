@@ -2,7 +2,7 @@
 
 Plugins on the Server and Client.
 
-Plugins for the client are installed manually, not through Vortex client.
+Plugins for the client are installed manually, not through Vortex client.\
 Client plugins are installed in: `{DRIVE:}\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\plugins`
 
 - Any Portal: https://www.nexusmods.com/valheim/mods/170
