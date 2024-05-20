@@ -4,7 +4,7 @@ Plugins on the Server and Client.
 
 Plugins for the client are installed manually, not through Vortex client.\
 Client plugins are installed in: `{DRIVE:}\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\plugins`\
-Client plugins:\
+Client plugins:
 
 - ValheimPlus Grantapher Temporary: https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary
 - ImFRIENDLY DAMMIT: https://thunderstore.io/c/valheim/p/Azumatt/ImFRIENDLY_DAMMIT
