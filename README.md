@@ -9,6 +9,7 @@ Server plugins:\
 The rest of the plugins should go into `path/to/data/valheim/config/valheimplus/plugins`
 
 - ValheimPlus Grantapher Temporary: https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary
+- BepInExPack Valheim: https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim
 - XPortal: https://www.nexusmods.com/valheim/mods/2239
 - Gungnir: https://www.nexusmods.com/valheim/mods/1921
 - Jotunn: https://www.nexusmods.com/valheim/mods/1138
