@@ -8,8 +8,8 @@ Server plugins:\
 `valheim_plus.cfg` and `ValheimPlus.dll` should be put in `path/to/data/valheim/config/valheimplus`\
 The rest of the plugins should go into `path/to/data/valheim/config/valheimplus/plugins`
 
-- Valheim Plus Fix (by Grantapher): [https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary/]
-- Any Portal: https://www.nexusmods.com/valheim/mods/170
+- ValheimPlus Grantapher Temporary: https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary/
+- XPortal: https://www.nexusmods.com/valheim/mods/2239
 - Gungnir: https://www.nexusmods.com/valheim/mods/1921
 - Jotunn: https://www.nexusmods.com/valheim/mods/1138
 - OCDheim: https://www.nexusmods.com/valheim/mods/2087
