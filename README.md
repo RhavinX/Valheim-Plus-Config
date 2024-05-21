@@ -21,10 +21,7 @@ VALHEIM_PLUS_REPO=Grantapher/ValheimPlus\
 VALHEIM_PLUS_RELEASE=tags/0.9.13.0 <-- version for Ashlands update.\
 
 `valheim_plus.cfg` and `ValheimPlus.dll` should be put in `path/to/data/valheim/config/valheimplus`\
-The rest of the plugins should go into `path/to/data/valheim/config/valheimplus/plugins`
-
-- ValheimPlus Grantapher Temporary: https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary
-- BepInExPack Valheim: https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim
+The rest of the plugins should go into `path/to/data/valheim/data/plus/BepInEx/plugins`\
 - XPortal: https://www.nexusmods.com/valheim/mods/2239
 - Gungnir: https://www.nexusmods.com/valheim/mods/1921
 - Jotunn: https://www.nexusmods.com/valheim/mods/1138
