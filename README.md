@@ -15,10 +15,10 @@ Client plugins:
 
 
 Server plugins:\
-There should be no need to copy `ValheimPlus.dll` as it will be download and installed onto the server by specifying it in the environment variables:
-VALHEIM_PLUS=true
-VALHEIM_PLUS_REPO=Grantapher/ValheimPlus
-VALHEIM_PLUS_RELEASE=tags/0.9.13.0 <-- version for Ashlands update.
+There should be no need to copy `ValheimPlus.dll` as it will be download and installed onto the server by specifying it in the environment variables:\
+VALHEIM_PLUS=true\
+VALHEIM_PLUS_REPO=Grantapher/ValheimPlus\
+VALHEIM_PLUS_RELEASE=tags/0.9.13.0 <-- version for Ashlands update.\
 
 `valheim_plus.cfg` and `ValheimPlus.dll` should be put in `path/to/data/valheim/config/valheimplus`\
 The rest of the plugins should go into `path/to/data/valheim/config/valheimplus/plugins`
