@@ -18,7 +18,7 @@ There should be no need to copy `ValheimPlus.dll` as it will be download and ins
 in the environment variables, and it will automatically be put into the correct locations:\
 VALHEIM_PLUS=true\
 VALHEIM_PLUS_REPO=Grantapher/ValheimPlus\
-VALHEIM_PLUS_RELEASE=tags/0.9.13.0 <-- version for Ashlands update.
+VALHEIM_PLUS_RELEASE=tags/0.9.14.0 <-- version for Ashlands update.
 
 `valheim_plus.cfg` will be put in `path/to/data/valheim/config/valheimplus`\
 The rest of the plugins should go into `path/to/data/valheim/data/plus/BepInEx/plugins`
