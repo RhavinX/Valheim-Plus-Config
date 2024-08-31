@@ -1,5 +1,9 @@
 # Valheim-Plus-Config
 
+The docker container being used is:
+Github page: https://github.com/lloesche/valheim-server-docker
+Docker Hub: https://hub.docker.com/r/lloesche/valheim-server
+
 Plugins on the Server and Client.
 
 Plugins for the client are installed manually, not through Vortex client.\
