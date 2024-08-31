@@ -11,7 +11,7 @@ Client plugins:
 - OCDheim: https://thunderstore.io/c/valheim/p/Vapok/OCDheim
 - Jotunn: https://www.nexusmods.com/valheim/mods/1138
 - Gungnir: https://www.nexusmods.com/valheim/mods/1921
-
+- XPortal: https://www.nexusmods.com/valheim/mods/2239
 
 Server plugins:\
 There should be no need to copy `ValheimPlus.dll` as it will be download and installed onto the server by specifying it\
