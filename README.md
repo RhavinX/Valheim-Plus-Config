@@ -9,17 +9,17 @@ Plugins on the Server and Client.
 Plugins for the client are installed manually, not through Vortex client.\
 Client plugins are installed in: `{DRIVE:}\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\plugins`\
 Client plugins:
-- Grantapher's Valheim Plus bundled with Bepinx: https://www.nexusmods.com/valheim/mods/2323?tab=description
+- Grantapher's Valheim Plus bundled with BepInEx: https://www.nexusmods.com/valheim/mods/2323?tab=description
   
-  Or you can download the following 2 items if you want to install Grantapher's Valheim Plus and Bepinex seperately.
+  Or you can download the following 2 items if you want to install Grantapher's Valheim Plus and BepInEx seperately.
 - BepInExPack Valheim: https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim
 - ValheimPlus Grantapher Temporary: https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary
 - ImFRIENDLY DAMMIT: https://thunderstore.io/c/valheim/p/Azumatt/ImFRIENDLY_DAMMIT
 - Seafloor Walking Boots: https://www.nexusmods.com/valheim/mods/1580
-- OCDheim: https://thunderstore.io/c/valheim/p/Vapok/OCDheim
 - Jotunn: https://www.nexusmods.com/valheim/mods/1138
 - Gungnir: https://www.nexusmods.com/valheim/mods/1921
 - XPortal: https://www.nexusmods.com/valheim/mods/2239
+- OCDheim: https://thunderstore.io/c/valheim/p/Vapok/OCDheim - Currently broken with latest Valehim
 
 Server plugins:\
 There should be no need to copy `ValheimPlus.dll` as it will be download and installed onto the server by specifying it\
@@ -33,4 +33,4 @@ The rest of the plugins should go into `path/to/data/valheim/data/plus/BepInEx/p
 - XPortal: https://www.nexusmods.com/valheim/mods/2239
 - Gungnir: https://www.nexusmods.com/valheim/mods/1921
 - Jotunn: https://www.nexusmods.com/valheim/mods/1138
-- OCDheim: https://thunderstore.io/c/valheim/p/Vapok/OCDheim
+- OCDheim: https://thunderstore.io/c/valheim/p/Vapok/OCDheim  - Currently broken with latest Valehim
