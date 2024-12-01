@@ -9,6 +9,7 @@ Plugins on the Server and Client.
 Plugins for the client are installed manually, not through Vortex client.\
 Client plugins are installed in: `{DRIVE:}\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\plugins`\
 Client plugins:
+- BepInExPack Valheim: https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim
 - ValheimPlus Grantapher Temporary: https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary
 - ImFRIENDLY DAMMIT: https://thunderstore.io/c/valheim/p/Azumatt/ImFRIENDLY_DAMMIT
 - Seafloor Walking Boots: https://www.nexusmods.com/valheim/mods/1580
