@@ -10,9 +10,10 @@ Plugins for the client are installed manually, not through Vortex client.\
 Client plugins are installed in: `{DRIVE:}\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\plugins`\
 Client plugins:
 - Grantapher's Valheim Plus bundled with Bepinx: https://www.nexusmods.com/valheim/mods/2323?tab=description
-  Or you can download the following 2 items if you want to install Grantapher's Valheim Plus and Bepinex seperately.\
+  
+  Or you can download the following 2 items if you want to install Grantapher's Valheim Plus and Bepinex seperately.
 - BepInExPack Valheim: https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim
-- ValheimPlus Grantapher Temporary: https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary\
+- ValheimPlus Grantapher Temporary: https://thunderstore.io/c/valheim/p/Grantapher/ValheimPlus_Grantapher_Temporary
 - ImFRIENDLY DAMMIT: https://thunderstore.io/c/valheim/p/Azumatt/ImFRIENDLY_DAMMIT
 - Seafloor Walking Boots: https://www.nexusmods.com/valheim/mods/1580
 - OCDheim: https://thunderstore.io/c/valheim/p/Vapok/OCDheim
